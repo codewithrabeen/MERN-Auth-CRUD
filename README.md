@@ -1,11 +1,11 @@
-# 🚀 MERN Authentication & CRUD Application
+## MERN Authentication & CRUD Application
 
 A full-stack **MERN** (MongoDB, Express.js, React.js, Node.js) project with **JWT authentication** and **CRUD operations**.  
 This app allows users to **register**, **log in**, **create**, **edit**, and **delete** data securely, with complete token-based authentication.
 
 ---
 
-## 🧩 Tech Stack
+# Tech Stack
 
 **Frontend:** React.js  
 **Backend:** Node.js, Express.js  
@@ -15,7 +15,7 @@ This app allows users to **register**, **log in**, **create**, **edit**, and **d
 
 ---
 
-## ✨ Features
+##  Features
 
 ✅ User Registration & Login (with JWT authentication)  
 ✅ Password Hashing using bcrypt  
@@ -30,10 +30,14 @@ This app allows users to **register**, **log in**, **create**, **edit**, and **d
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
-```bash
+
 git clone https://github.com/<codewithrabeen>/MERN-Auth-CRUD.git
 cd MERN-Auth-CRUD
 
 
 ## 📸 Screenshots
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b3eaa449-59d8-49a3-9f1a-d38884941324" />
+
+
+
 
