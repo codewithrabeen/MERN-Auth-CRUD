@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+ .header{
+
+  background-color: #343A40;
+}
+.header a{
+  color: #fff;
+  text-decoration: none;
+} 
+/* .register{
+  text-align:center;
+} */
+.register input{
+  /* display:block; */
+}
